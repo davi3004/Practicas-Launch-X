@@ -4,7 +4,7 @@
 ## -Toma de requerimientos 
 ###     Diagrama BPMN
    Nos ayuda a ver como es que va a trabajar el programa
-   [Image Text](./Recursos/Toma de requerimientos/diagrama(1).svg)
+   [Image Text](./Recursos/Toma de requerimientos/diagram.svg)
    
 ## -Buyer de persona
 ## -Público objetivo
