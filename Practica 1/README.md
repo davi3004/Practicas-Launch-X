@@ -2,9 +2,9 @@
 
 
 ## -Toma de requerimientos 
-###     Diagrama BPMN
-   Nos ayuda a ver como es que va a trabajar el programa
-[Image Text](./Recursos/Toma de requerimientos/Diagrama.jpg)
+### Diagrama BPMN
+Nos ayuda a ver como es que va a trabajar el programa
+[Image Text]([./Recursos/Toma de requerimientos/Diagrama.jpg](https://github.com/davi3004/Practicas-Launch-X/blob/main/Practica%201/Recursos/Toma%20de%20requerimientos/Diagrama.jpg?raw=true))
    
 ## -Buyer de persona
 ## -Público objetivo
