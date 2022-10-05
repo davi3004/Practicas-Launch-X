@@ -2,6 +2,8 @@
 
 
 ## -Toma de requerimientos 
+###     Diagrama BPMN
+    Nos ayuda a ver como es que va a trabajar el programa 
 ## -Buyer de persona
 ## -Público objetivo
 ## -Wireframe UX
