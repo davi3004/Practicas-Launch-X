@@ -10,7 +10,7 @@ Nos ayuda a ver como es que va a trabajar el programa
 ## -Público objetivo
 ## -Wireframe UX
 
-
+<center> <h4>║----Vista móvil (Usuario) desde el diagrama de flujo ---║</h4> </center>
 #### ║----Vista móvil (Usuario) desde el diagrama de flujo ---║
 #### ║----Vista móvil (Usuario)---║
 #### ║-----Vista móvil (Admin) desde el diagrama de flujo----║
